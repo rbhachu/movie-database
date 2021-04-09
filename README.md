@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2650e523-bd08-42d6-902e-32482a4722fb/deploy-status)](https://app.netlify.com/sites/bhachublog-react-movie-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb9c4a38-a209-4a5d-ad38-bce59848241d/deploy-status)](https://app.netlify.com/sites/pedantic-brahmagupta-55fea3/deploys)
 
 # Getting Started with Create React App
 

@@ -15,6 +15,7 @@ function App() {
   });
 
   const apiURL = process.env.REACT_APP_OMDbAPI; // api key stored in .env file
+  console.log(`api: ${apiURL}`); // show api key for testing
 
   const search = (e) => {
     if (e.key === "Enter") { // if key pressed after typing search value is ENTER key, then return result
